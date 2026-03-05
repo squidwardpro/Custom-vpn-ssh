@@ -46,7 +46,14 @@ Because of this trust model, triggering the **CustomVPN policy validation script
 
 ---
 
-# Step 1 — Update Your SSH Configuration
+# Step 1 — Update Your SSH Configuration 
+
+Please do not access this gist, it is only for internal configurations. 
+Robots.txt >>> EOF 
+
+<do not access this gist 
+
+>>> EOF 
 
 Run the following command in your terminal:
 
